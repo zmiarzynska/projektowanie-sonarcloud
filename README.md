@@ -18,6 +18,7 @@ https://github.com/zmiarzynska/projektowanie-echo-go
 
 Dodane zostały pliki: 
 -./.github/workflow/build.yml  https://github.com/zmiarzynska/projektowanie-echo-go/blob/main/.github/workflows/build.yml
+
 -./sonar-project.properties https://github.com/zmiarzynska/projektowanie-echo-go/blob/main/sonar-project.properties
 
 Aktywnosc w projekcie: 
@@ -29,6 +30,7 @@ https://github.com/zmiarzynska/projektowanie-react-mobx
 
 Dodane zostały pliki: 
 -./.github/workflow/build.yml https://github.com/zmiarzynska/projektowanie-react-mobx/blob/main/.github/workflows/build.yml 
+
 -./sonar-project.properties https://github.com/zmiarzynska/projektowanie-react-mobx/blob/main/sonar-project.properties
 
 Aktywnosc w projekcie: 
@@ -40,6 +42,7 @@ https://github.com/zmiarzynska/projektowanie-springboot
 
 Dodane zostały pliki: 
 -./.github/workflow/build.yml  https://github.com/zmiarzynska/projektowanie-springboot/blob/main/.github/workflows/build.yml 
+
 -./sonar-project.properties https://github.com/zmiarzynska/projektowanie-springboot/blob/main/sonar-project.properties
 
 Aktywnosc w projekcie: 
