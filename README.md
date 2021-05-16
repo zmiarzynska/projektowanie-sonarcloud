@@ -17,7 +17,7 @@ W zadaniu przeanalizowałam 3 projekty z kursu. Projekty:
 [![Bugs](https://sonarcloud.io/api/project_badges/measure?project=zmiarzynska_projektowanie-react-mobx&metric=bugs)](https://sonarcloud.io/dashboard?id=zmiarzynska_projektowanie-react-mobx)
 [![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=zmiarzynska_projektowanie-react-mobx&metric=code_smells)](https://sonarcloud.io/dashboard?id=zmiarzynska_projektowanie-react-mobx)
 [![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=zmiarzynska_projektowanie-react-mobx&metric=sqale_rating)](https://sonarcloud.io/dashboard?id=zmiarzynska_projektowanie-react-mobx)
-[![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=zmiarzynska_projektowanie-react-mobx&metric=reliability_rating)](https://sonarcloud.io/dashboard?id=zmiarzynska_projektowanie-react-mobx
+[![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=zmiarzynska_projektowanie-react-mobx&metric=reliability_rating)](https://sonarcloud.io/dashboard?id=zmiarzynska_projektowanie-react-mobx)
 [![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=zmiarzynska_projektowanie-react-mobx&metric=vulnerabilities)](https://sonarcloud.io/dashboard?id=zmiarzynska_projektowanie-react-mobx)
 
 
