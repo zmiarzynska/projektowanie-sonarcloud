@@ -8,4 +8,6 @@ W zadaniu przeanalizowałam 3 projekty z kursu. Projekty:
 - Kotlin / SpringBoot https://github.com/zmiarzynska/projektowanie-springboot
 
 Strona główna w aplikacji SonarCloud wygląda po naprawach następująco: 
-![Dashboard SonarCloud](./images/dashboard.png)
+![https://sonarcloud.io/organizations/zmiarzynska/projects](./images/dashboard.png)
+
+Link : https://sonarcloud.io/organizations/zmiarzynska/projects
